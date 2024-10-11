@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://juancancela.github.io/"
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true

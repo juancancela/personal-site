@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://michaelneuper.github.io/hugo-texify3/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
