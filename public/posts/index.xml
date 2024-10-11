@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on TeXify3</title>
+    <link>https://michaelneuper.github.io/hugo-texify3/posts/</link>
+    <description>Recent content in Posts on TeXify3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>michael@michaelneuper.com (Michael Neuper)</managingEditor>
+    <webMaster>michael@michaelneuper.com (Michael Neuper)</webMaster>
+    <lastBuildDate>Fri, 11 Oct 2024 12:00:00 +0200</lastBuildDate><atom:link href="https://michaelneuper.github.io/hugo-texify3/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://michaelneuper.github.io/hugo-texify3/posts/mi-primer-post/</link>
+      <pubDate>Fri, 11 Oct 2024 12:00:00 +0200</pubDate>
+      <author>michael@michaelneuper.com (Michael Neuper)</author>
+      <guid>https://michaelneuper.github.io/hugo-texify3/posts/mi-primer-post/</guid>
+      <description>&lt;p&gt;Este es el contenido de mi primer post usando Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
